@@ -1,2 +1,2 @@
 # SQL-Python
-The section contains all the details on how to connect SQL with python
+The section contains all the details on how to connect SQL with python and Tb
